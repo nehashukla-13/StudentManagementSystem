@@ -1,4 +1,4 @@
-# StudentManagementSystem
+# Student Management System
 
 About the Project
 
